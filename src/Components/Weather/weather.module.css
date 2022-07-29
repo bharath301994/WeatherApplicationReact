@@ -1,0 +1,18 @@
+.childContainer{
+    border: 5px solid white;
+    padding: 1rem 1rem;
+    display: table-cell;
+    width: inherit;
+}
+
+.box_day{
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+.box_weather{
+    margin-bottom: 16px;
+}
+
+.box_temp{
+    font-size: 30px;
+}

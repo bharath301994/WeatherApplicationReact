@@ -1,0 +1,67 @@
+.childContainer1{
+    padding: 1rem 1rem;
+    display: table-cell;
+    width: inherit;
+}
+.childContainer2{
+    margin: 50px auto;
+    display: table-cell;
+    width: inherit;
+}
+
+.country{
+    display: inline-block;
+    border: none;
+    font-family: sans-serif;
+    padding: 1rem 1rem;
+    margin-right: 15px;
+    margin-top: 16px;
+    font-size: xx-large;
+    background-color: #eef6fb;
+    color: #5fb0e8;
+    font-weight: 700;
+}
+
+.countryActive{
+    display: inline-block;
+    border: none;
+    font-family: sans-serif;
+    padding: 1rem 1rem;
+    margin-right: 15px;
+    margin-top: 16px;
+    font-size: xx-large;
+    background-color: #eef6fb;
+    color: #3c3c42;
+    font-weight: 700;
+}
+
+.weather_container{
+    width: 830px;
+    margin:20px auto;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.weather_temp{
+font-size: 70px;
+font-family: fantasy;
+}
+
+.weather_today{
+    font-size: 42px;
+}
+
+.weather_type{
+    font-size: 30px;
+}
+
+.weather_main{
+    width: 100px;
+    margin: 20px auto;
+}
+
+.weather_box{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
